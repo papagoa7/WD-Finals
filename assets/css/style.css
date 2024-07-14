@@ -1,0 +1,45 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #f4f4f4;
+}
+
+.container {
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+p {
+    margin: 10px 0;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    background: #000000;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border-color: black;
+    border-style:outset;
+    transition: 0.5s ease-in-out;
+}
+
+.button:hover {
+    color: #000000;
+    background: #ffffff;
+    transition: 0.5s;
+}
+
