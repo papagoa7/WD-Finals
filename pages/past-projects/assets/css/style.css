@@ -27,13 +27,18 @@ header {
 }
 
 .table-of-contents {
-    
-    margin: 10vh;
+    margin: 5vh;
 }
 
 .content {
-    
-    text-align: center;
+    display: block;
+    margin: 2vh;
+    text-decoration: none;
+    color: black;
+}
+
+.content:hover {
+    text-decoration: underline;
 }
 
 .container {

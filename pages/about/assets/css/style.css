@@ -5,9 +5,15 @@ h1 {
 body {
     background-color: lightblue;
     font-size: 15px;
-    padding: 5em;
+    padding: 2em;
     font-family: Courier;
     text-align: center;
+}
+
+.home {
+    background-color: aquamarine;
+    margin: 5vh;
+    display: block;
 }
 
 .grid {
