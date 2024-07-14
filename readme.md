@@ -83,23 +83,23 @@ WD-Finals
 |   └─ css
 |   |   └─ style.css
 |   └─ img
-|       └─ mudkip.gif
+|       └─ fileWith.jpeg/.jpg/.webp/.png
 └─ pages
-|  └─ features
+|  └─ about
 |  |  └─ assets
 |  |  |  └─ css
 |  |  |  |  └─ style.css
 |  |  |  └─ img
 |  |  |     └─ fileWith.jpeg/.jpg/.webp/.png
 |  |  └─ index.html
-|  └─ headers-footers
+|  └─ bonus
 |  |  └─ assets
 |  |  |  └─ css
 |  |  |  |  └─ style.css
 |  |  |  └─ img
 |  |  |     └─ fileWith.jpeg/.jpg/.webp/.png
 |  |  └─ index.html
-|  └─ hero-card
+|  └─ improvement
 |  |  └─ assets
 |  |  |  └─ css
 |  |  |  |  └─ style.css
@@ -113,7 +113,7 @@ WD-Finals
 |  |  |  └─ img
 |  |  |     └─ fileWith.jpeg/.jpg/.webp/.png
 |  |  └─ index.html
-|  └─ resume
+|  └─ past-projects
 |  |  └─ assets
 |  |  |  └─ css
 |  |  |  |  └─ style.css

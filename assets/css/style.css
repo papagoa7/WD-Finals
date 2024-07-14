@@ -5,18 +5,20 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: #f4f4f4;
+    background-image: url(../img/all-around.gif);
 }
 
 .container {
     text-align: center;
 }
 
-h1, h2 {
-    margin: 0;
+h1, h3 {
+    color: white;
+    margin: 5vh;
 }
 
 p {
+    color: white;
     margin: 10px 0;
 }
 
