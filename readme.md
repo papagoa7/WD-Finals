@@ -22,7 +22,6 @@
 ---
 
 <br />
-<br />
 
 <details>
   <summary>Table of Contents</summary>
@@ -51,14 +50,9 @@
 
 ## Overview
 
-Description of the project in details.
+This project is for showcasing my personal website, create by me using my own skills and what I've learned in Web Design.
 
-Guiding Question:
-
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+The project is a website that contains my past projects, resume, how I've improved and a bonus website. Using my laptop and PC, I used Visual Studio Code for coding and Naver Whale browser.The purpose of this project is to showcase my improvement and to create a portfolio for my future benefit.
 
 ### Key Components
 
@@ -128,4 +122,4 @@ WD-Finals
 
 | Title        | Purpose                                                                       | Link          |
 | ------------ | ----------------------------------------------------------------------------- | ------------- |
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Bulbagarden | Description about Mudkip | bulbapedia.bulbagarden.net |
