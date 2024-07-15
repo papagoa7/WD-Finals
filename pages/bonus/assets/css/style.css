@@ -151,14 +151,17 @@ header {
 .description {
     margin: 5vh;
     padding: 5vh;
-    background-color: #87bcf8;
     border-radius: 10px;
 }
 
 .des {
     font-family: monospace;
     padding: 3vh;
-    background-color: white;
+    background-color: rgb(143, 189, 243);
     border-radius: 10px;
     border-style: ridge;
+}
+
+.description img {
+    width: 50%;
 }
