@@ -1,6 +1,7 @@
 html {
     scroll-behavior: smooth;
-  }
+    overscroll-behavior: unset;
+}
 
 body {
     font-family: 'Courier';
@@ -18,6 +19,7 @@ header {
 }
 
 .home {
+    float: left;
     text-decoration: none;
     color: white;
 }
