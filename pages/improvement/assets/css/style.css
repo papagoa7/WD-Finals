@@ -1,0 +1,78 @@
+html {
+    scroll-behavior: smooth;
+    overscroll-behavior: unset;
+}
+
+body {
+    font-family: 'Courier';
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #ddbe58;
+}
+
+header {
+    margin: 1vh;
+    padding: 1vh;
+    text-align: center;
+    background-color: #ffdf74;
+    border-radius: 5px;
+    border-color: black;
+    border-style: outset;
+    color: rgb(0, 0, 0);
+}
+
+.home {
+    float: left;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.home:hover {
+    text-decoration: underline;
+}
+
+.description {
+    margin: 5vh;
+}
+
+p {
+    font-size: 2em;
+    text-align: center;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    width: 50dvh;
+}
+
+.before {
+    margin: 5vh;
+    padding: 5vh;
+    background-color: #ffdf74;
+    border-radius: 10px;
+}
+
+.after {
+    margin: 5vh;
+    padding: 5vh;
+    background-color: #ffdf74;
+    border-radius: 10px;
+}
+.waka-time {
+    margin: 5vh;
+    padding: 5vh;
+    background-color: #ffdf74;
+    border-radius: 10px;
+}
+
+.improve {
+    padding: 10vh;
+    background-color: #ffdf74;
+}

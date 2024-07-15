@@ -3,22 +3,35 @@ h1 {
 }
 
 body {
-    background-color: lightblue;
-    font-size: 15px;
-    margin: 2em;
-    font-family: Courier;
+    font-family: 'Courier';
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+header {
+    margin: 1vh;
+    padding: 1vh;
+    text-align: center;
+    background-color: rgb(150, 206, 243);
+    border-radius: 5px;
+    border-color: rgb(0, 0, 0);
+    border-style: outset;
+    color: rgb(182, 140, 3);
 }
 
 .home {
-    background-color: rgb(208, 244, 255);
-    display: block;
-    text-align: center;
+    float: left;
     text-decoration: none;
-    margin: 2vh;
+    color: rgb(182, 140, 3);
+}
+
+.home:hover {
+    text-decoration: underline;
 }
 
 .grid {
-    background-color: rgb(255, 255, 255);
+    margin: 5dvh;
     border-color: black;
     border-style: dotted;
     border-radius: 5em;

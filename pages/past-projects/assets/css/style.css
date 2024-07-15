@@ -12,16 +12,20 @@ body {
 }
 
 header {
+    margin: 1vh;
     padding: 1vh;
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: #d3d3d3;
+    border-radius: 5px;
+    border-color: black;
+    border-style: outset;
+    color: rgb(0, 0, 0);
 }
 
 .home {
     float: left;
     text-decoration: none;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .home:hover {

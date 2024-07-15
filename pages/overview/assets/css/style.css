@@ -1,0 +1,79 @@
+html {
+    scroll-behavior: smooth;
+    overscroll-behavior: unset;
+}
+
+body {
+    font-family: 'Courier';
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    margin: 0;
+}
+
+header {
+    margin: 1vh;
+    padding: 1vh;
+    text-align: center;
+    background-image: url(../img/space.JPG);
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: outset;
+    color: rgb(255, 255, 255);
+}
+
+.home {
+    float: left;
+    text-decoration: none;
+    color: white;
+}
+
+.home:hover {
+    text-decoration: underline;
+}
+
+p {
+    color: white;
+}
+
+.contents {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.description {
+    margin: 5vh;
+    padding: 1vh;
+    width: 20dvh;
+    text-align: center;
+    background-image: url(../img/space.JPG);
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: outset;
+    color: rgb(255, 255, 255);
+}
+
+.questions {
+    margin: 5vh;
+    padding: 1vh;
+    width: 50dvh;
+    text-align: center;
+    background-image: url(../img/space.JPG);
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: outset;
+    color: rgb(255, 255, 255);
+}
+
+.table-of-contents {
+    margin: 5vh;
+    padding: 1vh;
+    width: 25dvh;
+    background-image: url(../img/space.JPG);
+    border-radius: 5px;
+    border-color: rgb(255, 255, 255);
+    border-style: outset;
+    color: rgb(255, 255, 255);
+}
