@@ -49,11 +49,34 @@ header {
 
 .project {
     margin: 10vh;
-    width: 50%;
-    height: 99vh;
+    width: 40%;
+    height: 99dvh;
     display: inline-block;
-    background-color: lightgray;
+    background-color: #d3d3d3;
     border-radius: 5px;
     border-color: black;
     border-style: outset;
+}
+
+.link {
+    margin: 1dvh;
+    display: block;
+    text-decoration: none;
+    color: black;
+}
+
+.link:hover {
+    text-decoration: underline;
+}
+
+p {
+    padding: 2dvh;
+    display: flex;
+    align-items: center;
+    height: 25%;
+    background-color: white;
+    border-color: black;
+    border-style: ridge;
+    font-size: 1.5em;
+    margin: 3.5dvh;
 }
