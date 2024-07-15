@@ -21,8 +21,6 @@
 
 ---
 
-<br />
-
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -41,7 +39,7 @@
       <a href="#rules-and-principles">Rules and Principles</a>
     </li>
     <li>
-      <a href="#resources">Resources</a>
+      <a href="#file-structure">File Structure</a>
     </li>
   </ol>
 </details>
@@ -65,11 +63,9 @@ The project is a website that contains my past projects, resume, how I've improv
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Rules and Principles
+### File Structure
 
-1. Always use **_WD-_** in the front of the Title of the Project for the Subject followed by your custom naming.
-2. Do not rename any .html files; always use 'index.html' as the filename.
-3. File Structure to follow
+The file structure contains 5 pages, each page has its own assets and index.html file.
 
 ```
 WD-Finals
@@ -117,6 +113,8 @@ WD-Finals
 └─ index.html
 └─ readme.md
 ```
+
+
 
 ## Resources
 
